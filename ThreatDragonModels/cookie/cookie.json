@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "cookie",
+    "owner": "Nikola Vouk",
+    "description": "cookies from Auth0 contain sensitive information. Track how purple data is stored."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Nikola Vouk"
+  }
+}
