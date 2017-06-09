@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "virus upload",
+    "owner": "nikola vouk",
+    "description": "anti-virus upload"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Anti-Virus upload",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
